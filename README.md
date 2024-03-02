@@ -9,6 +9,8 @@ The project was primarily developed on the Gradient platform by Paperspace, the 
 
 The model training is conducted within the training_styleGAN.ipynb file. This file makes use of various functions and classes from the other classes in the project.
 
+In the `model_files` directory, the generator, and discriminator models at the end of 32x32 training are saved. These models can be used to get 32x32 images from the model.
+
 
 ## Model Training
 
